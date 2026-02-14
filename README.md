@@ -1,4 +1,5 @@
-# Aequs-Business-Strategy-and-Operating-Model-Case-Study-
+# Aequs-Business-Strategy-and-Operating-Model-Case-Study
+
 This case study presents an end-to-end analysis of Aequs, an Indian precision manufacturing company operating across aerospace and consumer manufacturing. The objective of the study was to understand Aequs’ unique value proposition and evaluate how its operating model choices enable sustainable competitive advantage in a high-entry-barrier industry.
 
 The analysis begins with an overview of the aerospace manufacturing landscape and the global tailwinds driving long-term growth, including rising aircraft deliveries, supply chain diversification away from China, and India’s increasing role as a manufacturing hub. A key focus of the case is Aequs’ “ecosystem” model, where forging, precision machining, special processes, and assembly are co-located within a single campus. This structure reduces supplier fragmentation for OEMs, improves traceability and compliance, and significantly cuts logistics movement and lead times.
